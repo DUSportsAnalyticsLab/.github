@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dusal-logo-circle.png" width="150" alt="DUSAL Logo">
+</p>
+
 # 🏆 DU Sports Analytics Lab (DUSAL)
 
 **University of Denver · Daniels College of Business**  
